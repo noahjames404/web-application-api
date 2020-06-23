@@ -11,7 +11,7 @@ for ust students :3
 
 ## Installation 
 - After setting up the Prerequisites 
-- start the xampp control panel and start apache & mysql services.
+- start the xampp control panel,then start apache & mysql services.
 - in phpmyadmin create a database named web_application_api.
 - from the cloned repository, drag the file in database folder to phpmyadmin page.
 - in Apache Netbeans, add the cloned repostory via File->Open Project.
