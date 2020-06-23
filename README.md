@@ -15,6 +15,9 @@ for ust students :3
 - in phpmyadmin create a database named web_application_api.
 - from the cloned repository, drag the file in database folder to phpmyadmin page.
 - in Apache Netbeans, add the cloned repostory via File->Open Project.
+- incase the tomcat server is not yet included, go to tools->servers and go to add server button, select tomcat;
+  afterwards specify the tomcat location (usually in C:\xammp\tomcat);
+  for username & password, just set root to both.
 - build the project, note that it may take sometime to build as it will install all the libraries required from maven. 
 - afterwards run the program. 
 
